@@ -17,4 +17,6 @@ def onButtonReleased():
 button.when_pressed = onButtonPressed
 button.when_released = onButtonReleased
 
+print('setup done! ')
+
 pause()
