@@ -1,1 +1,1 @@
-git clone https://github.com/brozorb/auto-updating-project-
+git clone https://github.com/brozorb/auto-update/
